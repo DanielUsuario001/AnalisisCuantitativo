@@ -38,9 +38,7 @@ En mi página de Notion encontrarás:
 ```
 ├── examen_final_2024_2/
 │   ├── soluciones.R
-│   └── resultados/
-├── ejercicios/
-└── recursos/
+└── resultados/
 ```
 
 ## 🤝 Contacto y Redes Sociales
@@ -56,6 +54,7 @@ En mi página de Notion encontrarás:
 
 ## ⭐ Contribuciones
 Si encuentras este material útil, ¡no olvides darle una estrella al repositorio! 
+
 Las contribuciones y sugerencias son siempre bienvenidas.
 
 ---
