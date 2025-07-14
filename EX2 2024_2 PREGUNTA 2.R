@@ -16,6 +16,10 @@
 # a) (0.5 puntos) Ajuste un modelo de regresión logística (completo) para estimar la probabilidad 
 # de que un usuario realice un pedido.
 
+
+
+
+
 # b) (1.0 puntos) Evaluar la significancia global del modelo utilizando un nivel de significancia
 # de 0.05 (1 punto)
 
