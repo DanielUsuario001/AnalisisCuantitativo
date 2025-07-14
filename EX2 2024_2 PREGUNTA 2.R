@@ -17,7 +17,7 @@
 # de que un usuario realice un pedido.
 
 
-
+a = 1
 
 
 # b) (1.0 puntos) Evaluar la significancia global del modelo utilizando un nivel de significancia
